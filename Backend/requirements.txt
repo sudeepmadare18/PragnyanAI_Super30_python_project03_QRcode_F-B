@@ -1,5 +1,4 @@
 fastapi
-guvicorn
 uvicorn[standard]
 python-multipart
 qrcode[pil]
