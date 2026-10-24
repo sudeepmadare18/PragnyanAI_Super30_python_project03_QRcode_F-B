@@ -24,15 +24,13 @@ The application was developed and tested in Google Colab using Gradio. A Streaml
 
 - Python
 - Fast API
-- Gradio
-- css
+- CSS
 - HTML
 - java script
-- Streamlit
-- OpenCV
 - Matplotlib
 - Render
 - GitHub
+- Netlify
 
 ## Workflow
 
@@ -55,10 +53,6 @@ The application was developed and tested in Google Colab using Gradio. A Streaml
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
 
 ## Output
 
