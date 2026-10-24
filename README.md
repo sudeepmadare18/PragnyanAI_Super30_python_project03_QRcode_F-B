@@ -23,7 +23,10 @@ The application was developed and tested in Google Colab using Gradio. A Streaml
 ## Technologies Used
 
 - Python
+- Fast API
 - Gradio
+- css
+- HTML
 - java script
 - Streamlit
 - OpenCV
@@ -65,7 +68,7 @@ The application was developed and tested in Google Colab using Gradio. A Streaml
 
 ## Live Application
 
-https://pragnyanai-pythonprojectqrcode-ev4gbgcbkkae6abzhvyeji.streamlit.app/
+https://pythonqrcode.netlify.app/
 
 ## Future Scope
 
